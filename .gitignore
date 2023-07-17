@@ -6,9 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
-# Data and CV
+# Data and Figures
 Data/
 CV/
+Figures/
+.idea/
 
 # Distribution / packaging
 .Python
